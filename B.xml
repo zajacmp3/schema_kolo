@@ -1,0 +1,19 @@
+<!-- s3 grupa B -->
+<sklep_meblowy>
+	<dostawca>
+		<miasto>Gdynia</miasto>
+		<nazwa>dobre meble</nazwa>
+		<wielkosc_dostawy>40</wielkosc_dostawy>
+	</dostawca>
+	<meble>
+		<krzeslo kraj_poch="DN">
+			<nazwa>arius</nazwa>
+			<cena>300</cena>
+		</krzeslo>
+		<komplet>
+			<nazwa>sypialniany</nazwa>
+			<cena>nieustalona</cena>
+			<lozko>tak</lozko>
+		</komplet>
+	</meble>
+</sklep_meblowy>
